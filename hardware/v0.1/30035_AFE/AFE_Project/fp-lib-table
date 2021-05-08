@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name Connectors_254mm)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/Connectors_254mm.pretty)(options "")(descr ""))
+  (lib (name Connectors_RF)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/Connectors_RF.pretty)(options "")(descr ""))
+  (lib (name General_SMD)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/General_SMD.pretty)(options "")(descr ""))
+  (lib (name QFN)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/QFN.pretty)(options "")(descr ""))
+  (lib (name Opto)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/Opto.pretty)(options "")(descr ""))
+  (lib (name Macom)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/Macom.pretty)(options "")(descr ""))
+  (lib (name MountingHole)(type KiCad)(uri ${KISYSMOD}/MountingHole.pretty)(options "")(descr ""))
+  (lib (name Mounting_Holes)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/Mounting_Holes.pretty)(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri ${CUSTLIB}/Pretty_Footprints/Logos.pretty)(options "")(descr ""))
+)

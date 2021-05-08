@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name passives)(type Legacy)(uri ${CUSTLIB}/Passive/passives.lib)(options "")(descr ""))
+  (lib (name CINCH)(type Legacy)(uri ${CUSTLIB}/Connectors/RF/CINCH.lib)(options "")(descr ""))
+  (lib (name pin_array)(type Legacy)(uri ${CUSTLIB}/Connectors/PIN_ARRAY/pin_array.lib)(options "")(descr ""))
+  (lib (name SiPM)(type Legacy)(uri ${CUSTLIB}/Opto/APD/OnSemi/SiPM.lib)(options "")(descr ""))
+  (lib (name MABACT0059)(type Legacy)(uri ${CUSTLIB}/Transceiver/Transformer/MABACT0059.lib)(options "")(descr ""))
+  (lib (name GRF2133)(type Legacy)(uri ${CUSTLIB}/Amplifier/GuerillaRF/GRF2133.lib)(options "")(descr ""))
+)
